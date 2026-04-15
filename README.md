@@ -29,8 +29,6 @@ This project demonstrates **clean architecture (MVVM)**, **REST API integration*
 |--------------|-------------|----------------|
 | *(Add Image)* | *(Add Image)* | *(Add Image)* |
 
-> 💡 Tip: Upload screenshots to GitHub and replace placeholders with image links.
-
 ---
 
 ## 🛠️ Tech Stack
