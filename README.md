@@ -28,10 +28,7 @@ This project demonstrates **clean architecture (MVVM)**, **REST API integration*
 
 | Search Screen | Loading State | Weather Details |
 |--------------|-------------|----------------|
-| <img width="433" height="960" alt="Search Screen" src="https://github.com/user-attachments/assets/c2ae81d7-3a62-482f-8234-aa1c62c0260e" /> | <img width="435" height="975" alt="Loading" src="https://github.com/user-attachments/assets/0ebf6498-5626-4d31-a297-ebc4cdf6d82e" />
- |<img width="432" height="943" alt="Weather details" src="https://github.com/user-attachments/assets/861e3eee-f726-4a15-8e6a-6ed75939b22a" />
-
- |
+| <img width="400" height="960" alt="Search Screen" src="https://github.com/user-attachments/assets/c2ae81d7-3a62-482f-8234-aa1c62c0260e" /> | <img width="400" height="975" alt="Loading" src="https://github.com/user-attachments/assets/0ebf6498-5626-4d31-a297-ebc4cdf6d82e" />|<img width="400" height="943" alt="Weather details" src="https://github.com/user-attachments/assets/861e3eee-f726-4a15-8e6a-6ed75939b22a" />|
 
 ---
 
