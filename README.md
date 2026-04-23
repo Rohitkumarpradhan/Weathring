@@ -1,5 +1,5 @@
 
-# 🌤️ Weather App
+# 🌤️ Weathering
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Language](https://img.shields.io/badge/Language-Kotlin-blue)
