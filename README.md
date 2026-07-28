@@ -8,6 +8,10 @@
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-purple)
 ![API](https://img.shields.io/badge/API-WeatherAPI-yellow)
 
+### 📥 Download Installer
+* 🤖 **[Download Android APK (via Google Drive)](https://drive.google.com/file/d/1wxcjvDRNpxwr6OrYPrWYGmL0fMCKxODm/view?usp=drive_link)**
+
+
 A modern Android application built using **Kotlin** and **Jetpack Compose** that provides real-time weather updates for locations worldwide.
 
 This project demonstrates **clean architecture (MVVM)**, **REST API integration**, and **reactive UI design** using the latest Android tools.
